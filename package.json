@@ -1,0 +1,23 @@
+{
+  "name": "bitcoin-value-delta",
+  "version": "1.0.0",
+  "description": "Attempting to predict price of bitcoin through rates of change and neural networks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montyanderson/bitcoin-value-delta.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/montyanderson/bitcoin-value-delta/issues"
+  },
+  "homepage": "https://github.com/montyanderson/bitcoin-value-delta#readme",
+  "dependencies": {
+    "got": "^6.7.1",
+    "synaptic": "^1.0.8"
+  }
+}
